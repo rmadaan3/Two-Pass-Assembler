@@ -1,0 +1,13 @@
+CLA
+//prpQ[]OBHOI
+LAC I
+ADD J
+SAC I
+LAC '=4'
+ADD L
+MUL I
+I DC 4
+J DC 5
+K DC 5
+L DC 4
+
