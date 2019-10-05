@@ -1,7 +1,3 @@
-#Kanishk Rana-2017241
-
-
-# from inputtables import *
 import _pickle as pickle
 label_table={}
 symbol_table={}
